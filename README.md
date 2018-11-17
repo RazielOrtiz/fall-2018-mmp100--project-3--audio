@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [Link to your project](http://mmp.bmcc.cuny.edu/raziel.ortiz/fall-2018/mmp-100/project-3)
 
 ### Description
-Hey so this isn't as good as I would want it to be, don't have a real working keyboard so I had to make do with my old little one. I think I did good for what I had.
+Hey so this isn't as good as I would want it to be, don't have a real working keyboard so I had to make do with my old little one. I think I did good for what I had. This a song from Castlevania II Simons Quest, my dad used to play it a bunch when I was a wee lad so I figured why not.
 
 ## Rules
 * **Do not** add or remove any files to this repo.

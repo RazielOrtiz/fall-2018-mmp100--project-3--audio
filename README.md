@@ -16,7 +16,7 @@ For this project, you’ll use Audacity to create a 90-second audio collage that
 [Link to your project](http://mmp.bmcc.cuny.edu/raziel.ortiz/fall-2018/mmp-100/project-3)
 
 ### Description
-you all better remember dragon tales, or don't i'm indecisive so i'll probably go basic with the Halloween theme.
+Hey so this isn't as good as I would want it to be, don't have a real working keyboard so I had to make do with my old little one. I think I did good for what I had.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
